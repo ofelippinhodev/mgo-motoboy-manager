@@ -1,37 +1,23 @@
 # MGO Motoboy Manager
 
-Sistema simples para controle financeiro e operacional de motoboys autônomos.
+Sistema simples para controle financeiro e operacional de motoboys.
 
-## Preview
+## Dashboard
 
-![Dashboard](docs/screenshot-dashboard.png)
+![Dashboard](docs/print-dashboard.jpg)
 
-## Funcionalidades
+## Resumo Financeiro
 
-* Controle de ganhos diários
-* Controle de combustível
-* Controle de manutenção
-* Controle de troca de óleo
-* Relatórios financeiros
-* Dashboard de indicadores
+![Resumo](docs/Resumo.jpg)
 
-## Como usar
+## Controle de Ganhos
 
-1. Baixe a planilha Excel.
-2. Abra no Microsoft Excel.
-3. Registre seus ganhos e despesas.
-4. Acompanhe os indicadores automaticamente.
+![Ganhos](docs/ganhos-diarios.jpg)
 
-## Roadmap
+## Controle de Abastecimento
 
-* [x] Planilha inicial
-* [ ] Melhorias no dashboard
-* [ ] Cadastro de clientes
-* [ ] Aplicação Web
-* [ ] Dashboard online
-* [ ] Exportação de relatórios
+![Abastecimento](docs/Abastecimento.jpg)
 
-## Licença
+## Controle de Manutenção
 
-Este projeto está licenciado sob a licença MIT.
-
+![Manutenção](docs/Manutencao.jpg)
